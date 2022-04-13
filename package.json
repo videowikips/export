@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.5.3",
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "aws-sdk": "^2.379.0",
     "cheerio": "^1.0.0-rc.2",
     "dotenv": "^6.2.0",
